@@ -9,13 +9,14 @@ Belinda – Trevor – Tawny – Valerie
 
 
 #### Project Description/Outline:
-Cancer rates and survivability	 - Compare with smoker data. 
-	-By state. 
-	-By year. 
-	-By gender. 
-	-By race. 
-	-By age. 
-	-By income. 
+	-Cancer rates and survivability     
+	-Compare with smoker data     
+	-By state.  
+	-By year.  
+	-By gender.   
+	-By race.   
+	-By age.    
+	-By income.     
 
 #### Research Questions to Answer:  
 *What are the total number of cancer cases in the United States?  
@@ -52,7 +53,7 @@ Surveillance Epidemiology and End Results Program (SEER).
 -Belinda – Compare highest and lowest.  
 -Tawny – Python may be a strength.  
 
-##### Breakdown of presentation:
+#### Breakdown of presentation:
 *Intro – introduce the topic.  
 *Something difficult – share something difficult with data visualization.  
 *Something interesting or surprising – share something interesting with data visualization.  
