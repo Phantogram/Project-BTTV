@@ -9,14 +9,14 @@ Belinda – Trevor – Tawny – Valerie
 
 
 #### Project Description/Outline:
-	-Cancer rates and survivability     
-	-Compare with smoker data     
-	-By state.  
-	-By year.  
-	-By gender.   
-	-By race.   
-	-By age.    
-	-By income.     
+-Cancer rates and survivability     
+-Compare with smoker data     
+-By state.  
+-By year.  
+-By gender.   
+-By race.   
+-By age.    
+-By income.     
 
 #### Research Questions to Answer:  
 *What are the total number of cancer cases in the United States?  
