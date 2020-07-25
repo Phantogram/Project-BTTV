@@ -9,17 +9,17 @@
 
 
 #### The data exploration and cleanup process (acompanied by your Jupyter Notebook).
--Belinda (1 min)
-Files containing ("") 
-Measuring the same dates/year
-State abbreviations to state year
+-Belinda (1 min).  
+Files containing ("").  
+Measuring the same dates/year.  
+State abbreviations to state year.  
 
 
 #### The analysis process (accompanied by your Jupyter Notebook).
--Belinda: alcohol (1 min)
--Tawny: census data (1 min) 
--Trevor: smoking (1 min)
--Valerie: obesity ...maybe religion (1 min)
+-Belinda: alcohol (1 min).  
+-Tawny: census data (1 min).  
+-Trevor: smoking (1 min).  
+-Valerie: obesity ...maybe religion (1 min).  
 
 
 #### Your conclusions including a numerical summary and visualizations of the summary.
