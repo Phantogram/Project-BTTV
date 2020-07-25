@@ -20,11 +20,11 @@ Belinda – Trevor – Tawny – Valerie
   -By income.     
 
 #### Research Questions to Answer:  
-*What is the relation of cancer death to smoking rates?
-*What is the relation of cancer death to alcohol binge drinking?
-*What is the relation of cancer death to obesity?
-*What is the relation of cancer death to additional demographics including income?
-*Any other special considerations or discoveries made.
+*What is the relation of cancer death to smoking rates?  
+*What is the relation of cancer death to alcohol binge drinking?  
+*What is the relation of cancer death to obesity?  
+*What is the relation of cancer death to additional demographics including income?  
+*Any other special considerations or discoveries made.  
 
 #### Datasets to be Used: 
 *CDC - National Center for Health Statistics – CSV/Excel.  
@@ -34,20 +34,20 @@ Surveillance Epidemiology and End Results Program (SEER).
 *Census Data – CSV/Excel/API.  
 
 #### Data Visualizations:
--Bar plot on Top 5 cancer deaths by state
--Pie plot on Male vs Female cancer death rate
--Cancer deaths vs Smoking 
--Cancer deaths vs Alcohol consumption
--Cancer deaths vs Obesity
--Cancer deaths vs Additional demographics (including income)
--Heat map
--Pearson correlation
+-Bar plot on Top 5 cancer deaths by state.  
+-Pie plot on Male vs Female cancer death rate.  
+-Cancer deaths vs Smoking.  
+-Cancer deaths vs Alcohol consumption.  
+-Cancer deaths vs Obesity.  
+-Cancer deaths vs Additional demographics (including income).  
+-Heat map.  
+-Pearson correlation.  
 
 #### Rough Breakdown of Tasks:
--ALL – read in data  
--Trevor – Smoking Stuff.  
+-ALL – read in data.   
+-Trevor – Smoking Stuff.   
 -Val – Obesity.  
--Belinda – Alcohol.  
+-Belinda – Alcohol.   
 -Tawny – Demographics (including income, insurance, gender).  
 
 #### Breakdown of presentation: (**SEE BREAKDOWN.MD**)
