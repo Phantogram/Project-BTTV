@@ -12,7 +12,7 @@
 -Belinda (1 min).  
 Files containing ("").  
 Measuring the same dates/year.  
-State abbreviations to state year.  
+State abbreviations to full state spelling.  
 
 
 #### The analysis process (accompanied by your Jupyter Notebook).
