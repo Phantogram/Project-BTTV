@@ -1,0 +1,52 @@
+Area,CancerType,Year,Sex,Race,AgeAdjustedRate,DeathCount,Population
+Nevada,All Types of Cancer,2017,Male and Female,All Races,156.3,5283,2972405
+Idaho,All Types of Cancer,2017,Male and Female,All Races,153.2,3020,1718904
+Wyoming,All Types of Cancer,2017,Male and Female,All Races,136,948,578934
+Colorado,All Types of Cancer,2017,Male and Female,All Races,131.1,7829,5615902
+Georgia,All Types of Cancer,2017,Male and Female,All Races,155.4,17135,10413055
+Montana,All Types of Cancer,2017,Male and Female,All Races,152.1,2145,1053090
+Texas,All Types of Cancer,2017,Male and Female,All Races,147.3,40668,28322717
+New Mexico,All Types of Cancer,2017,Male and Female,All Races,138.2,3620,2093395
+Utah,All Types of Cancer,2017,Male and Female,All Races,121,3160,3103118
+California,All Types of Cancer,2017,Male and Female,All Races,137.2,59515,39399349
+Alaska,All Types of Cancer,2017,Male and Female,All Races,139.8,926,739786
+Oregon,All Types of Cancer,2017,Male and Female,All Races,154.1,8083,4146592
+Virginia,All Types of Cancer,2017,Male and Female,All Races,152.5,15064,8465207
+Mississippi,All Types of Cancer,2017,Male and Female,All Races,182.8,6526,2989663
+West Virginia,All Types of Cancer,2017,Male and Female,All Races,178.6,4654,1817048
+Rhode Island,All Types of Cancer,2017,Male and Female,All Races,154,2154,1056486
+Minnesota,All Types of Cancer,2017,Male and Female,All Races,147.1,9896,5568155
+Maryland,All Types of Cancer,2017,Male and Female,All Races,151.8,10796,6024891
+Washington,All Types of Cancer,2017,Male and Female,All Races,148.4,12664,7425432
+Hawaii,All Types of Cancer,2017,Male and Female,All Races,128.5,2456,1424203
+District of Columbia,All Types of Cancer,2017,Male and Female,All Races,152.5,1031,695691
+Missouri,All Types of Cancer,2017,Male and Female,All Races,167.1,12971,6108612
+North Dakota,All Types of Cancer,2017,Male and Female,All Races,142.2,1280,755176
+Tennessee,All Types of Cancer,2017,Male and Female,All Races,173.5,14302,6708794
+Nebraska,All Types of Cancer,2017,Male and Female,All Races,152.9,3502,1917575
+Oklahoma,All Types of Cancer,2017,Male and Female,All Races,176.7,8203,3932640
+Arkansas,All Types of Cancer,2017,Male and Female,All Races,173.3,6516,3002997
+Iowa,All Types of Cancer,2017,Male and Female,All Races,157.8,6449,3143637
+Florida,All Types of Cancer,2017,Male and Female,All Races,145.3,45129,20976812
+Wisconsin,All Types of Cancer,2017,Male and Female,All Races,153.3,11318,5792051
+Kansas,All Types of Cancer,2017,Male and Female,All Races,157.1,5493,2910689
+North Carolina,All Types of Cancer,2017,Male and Female,All Races,157.2,19474,10270800
+South Dakota,All Types of Cancer,2017,Male and Female,All Races,157.4,1715,873286
+Pennsylvania,All Types of Cancer,2017,Male and Female,All Races,160.6,28385,12790447
+Kentucky,All Types of Cancer,2017,Male and Female,All Races,186,10145,4453874
+Alabama,All Types of Cancer,2017,Male and Female,All Races,169.5,10410,4875120
+Maine,All Types of Cancer,2017,Male and Female,All Races,169.7,3391,1335063
+South Carolina,All Types of Cancer,2017,Male and Female,All Races,162.6,10356,5021219
+Louisiana,All Types of Cancer,2017,Male and Female,All Races,174.7,9512,4670818
+Vermont,All Types of Cancer,2017,Male and Female,All Races,164.4,1434,624525
+Arizona,All Types of Cancer,2017,Male and Female,All Races,134.9,12008,7048876
+Ohio,All Types of Cancer,2017,Male and Female,All Races,171.1,25643,11664129
+New Jersey,All Types of Cancer,2017,Male and Female,All Races,145.7,16264,8888543
+Delaware,All Types of Cancer,2017,Male and Female,All Races,160.9,2085,957078
+New Hampshire,All Types of Cancer,2017,Male and Female,All Races,153.2,2760,1349767
+New York,All Types of Cancer,2017,Male and Female,All Races,142,34956,19590719
+Illinois,All Types of Cancer,2017,Male and Female,All Races,158.3,24150,12786196
+Indiana,All Types of Cancer,2017,Male and Female,All Races,170.4,13462,6660082
+Massachusetts,All Types of Cancer,2017,Male and Female,All Races,149.4,12934,6863246
+Michigan,All Types of Cancer,2017,Male and Female,All Races,161.2,20671,9976447
+Connecticut,All Types of Cancer,2017,Male and Female,All Races,139.8,6608,3573880
