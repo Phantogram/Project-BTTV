@@ -1,0 +1,7 @@
+CancerType,Race,Sex,Rate,lci,uci,Count,Population
+'All Alcohol-associated Cancers','Asian/Pacific Islander','Male and Female','102.1','100.8','103.5','21420','21130607'
+'All Alcohol-associated Cancers','American Indian/Alaska Native','Male and Female','86.3','83.3','89.4','3361','4684666'
+'All Alcohol-associated Cancers','Non-Hispanic','Male and Female','132.4','132.0','132.8','451851','266446132'
+'All Alcohol-associated Cancers','Hispanic','Male and Female','105.2','104.2','106.3','44587','58700989'
+'All Alcohol-associated Cancers','Black','Male and Female','132.8','131.7','134.0','57606','45788656'
+'All Alcohol-associated Cancers','White','Male and Female','128.0','127.6','128.4','406508','253543192'

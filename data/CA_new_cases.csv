@@ -1,0 +1,11 @@
+Area,CancerType,Year,Sex,Race,AgeAdjustedRate,CaseCount,Population
+'California','Prostate','2017','Male and Female','All Races','93.9','20053','19581670'
+'California','Urinary Bladder','2017','Male and Female','All Races','15.6','6794','39399349'
+'California','Female Breast','2017','Male and Female','All Races','121.2','27436','19817679'
+'California','Non-Hodgkin Lymphoma','2017','Male and Female','All Races','17.5','7511','39399349'
+'California','Kidney and Renal Pelvis','2017','Male and Female','All Races','15','6559','39399349'
+'California','Lung and Bronchus','2017','Male and Female','All Races','38.8','16803','39399349'
+'California','Melanomas of the Skin','2017','Male and Female','All Races','22.5','9730','39399349'
+'California','Corpus and Uterus NOS','2017','Male and Female','All Races','26.6','6284','19817679'
+'California','Thyroid','2017','Male and Female','All Races','12.7','5202','39399349'
+'California','Colon and Rectum','2017','Male and Female','All Races','33.6','14518','39399349'

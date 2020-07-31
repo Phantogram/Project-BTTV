@@ -1,0 +1,11 @@
+Area,CancerType,Year,Sex,Race,AgeAdjustedRate,CaseCount,Population
+'Utah','Leukemias','2017','Male and Female','All Races','6.2','160','3103118'
+'Utah','Pancreas','2017','Male and Female','All Races','8.7','232','3103118'
+'Utah','Colon and Rectum','2017','Male and Female','All Races','10.4','272','3103118'
+'Utah','Lung and Bronchus','2017','Male and Female','All Races','17.2','451','3103118'
+'Utah','Liver and Intrahepatic Bile Duct','2017','Male and Female','All Races','4.8','127','3103118'
+'Utah','Ovary','2017','Male and Female','All Races','7.3','101','1540313'
+'Utah','Brain and Other Nervous System','2017','Male and Female','All Races','4.7','126','3103118'
+'Utah','Female Breast','2017','Male and Female','All Races','20.2','280','1540313'
+'Utah','Prostate','2017','Male and Female','All Races','19.7','212','1562805'
+'Utah','Non-Hodgkin Lymphoma','2017','Male and Female','All Races','5.3','132','3103118'

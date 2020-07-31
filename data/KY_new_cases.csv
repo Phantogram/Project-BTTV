@@ -1,0 +1,11 @@
+Area,CancerType,Year,Sex,Race,AgeAdjustedRate,CaseCount,Population
+'Kentucky','Lung and Bronchus','2017','Male and Female','All Races','87','4933','4453874'
+'Kentucky','Non-Hodgkin Lymphoma','2017','Male and Female','All Races','19.5','1051','4453874'
+'Kentucky','Corpus and Uterus NOS','2017','Male and Female','All Races','26.7','769','2259543'
+'Kentucky','Urinary Bladder','2017','Male and Female','All Races','22.8','1252','4453874'
+'Kentucky','Melanomas of the Skin','2017','Male and Female','All Races','27.3','1400','4453874'
+'Kentucky','Kidney and Renal Pelvis','2017','Male and Female','All Races','21.7','1161','4453874'
+'Kentucky','Prostate','2017','Male and Female','All Races','108.8','2961','2194331'
+'Kentucky','Female Breast','2017','Male and Female','All Races','125.7','3551','2259543'
+'Kentucky','Colon and Rectum','2017','Male and Female','All Races','45','2424','4453874'
+'Kentucky','Leukemias','2017','Male and Female','All Races','15.8','832','4453874'

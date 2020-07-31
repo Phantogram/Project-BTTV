@@ -1,0 +1,11 @@
+Area,CancerType,Year,Sex,Race,AgeAdjustedRate,CaseCount,Population
+'United States','Female Breast','2017','Male and Female','All Races','125.1','250520','165021491'
+'United States','Kidney and Renal Pelvis','2017','Male and Female','All Races','16.9','65251','325147121'
+'United States','Urinary Bladder','2017','Male and Female','All Races','19.1','75047','325147121'
+'United States','Melanomas of the Skin','2017','Male and Female','All Races','22.7','85686','325147121'
+'United States','Prostate','2017','Male and Female','All Races','106.5','207430','160125630'
+'United States','Colon and Rectum','2017','Male and Female','All Races','36.8','141425','325147121'
+'United States','Corpus and Uterus NOS','2017','Male and Female','All Races','27.2','57368','165021491'
+'United States','Pancreas','2017','Male and Female','All Races','12.9','51156','325147121'
+'United States','Lung and Bronchus','2017','Male and Female','All Races','55.2','221121','325147121'
+'United States','Non-Hodgkin Lymphoma','2017','Male and Female','All Races','18.5','70487','325147121'

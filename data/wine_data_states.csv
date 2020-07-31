@@ -1,0 +1,52 @@
+Rank,State,Gallons of Ethanol Per Capita*
+1,Idaho,1.21
+2,"Washington, D.C.",1.02
+3,New Hampshire,0.84
+4,Vermont,0.78
+5,Delaware,0.72
+6,Massachusetts,0.63
+7,California,0.62
+8,Connecticut,0.6
+8,Nevada,0.6
+10,Hawaii,0.59
+11,Oregon,0.58
+12,Rhode Island,0.57
+12,New Jersey,0.57
+14,Alaska,0.53
+15,Colorado,0.52
+15,Florida,0.52
+15,New York,0.52
+18,Montana,0.51
+18,Washington,0.51
+20,Virginia,0.49
+21,Illinois,0.45
+21,North Carolina,0.45
+23,Maine,0.44
+23,Minnesota,0.44
+25,Michigan,0.4
+26,Arizona,0.39
+26,Wisconsin,0.39
+26,Maryland,0.39
+29,Missouri,0.38
+30,Louisiana,0.34
+30,North Dakota,0.34
+30,Texas,0.34
+33,Pennsylvania,0.33
+34,Tennessee,0.32
+34,Wyoming,0.32
+36,New Mexico,0.31
+36,Ohio,0.31
+38,Indiana,0.29
+39,Alabama,0.26
+40,Georgia,0.25
+40,South Carolina,0.25
+42,Arkansas,0.23
+42,Iowa,0.23
+44,Kentucky,0.22
+44,South Dakota,0.22
+46,Nebraska,0.21
+47,Oklahoma,0.2
+47,Utah,0.2
+49,Mississippi,0.18
+50,Kansas,0.14
+51,West Virginia,0.11

@@ -1,0 +1,8 @@
+CancerType,Race,Sex,Rate,lci,uci,Count,Population,
+'All Alcohol-associated Cancers','All Races','Male and Female','128.9','128.5','129.2','496450','325147121',
+'Female Breast','All Races','Male and Female','125.1','124.6','125.6','250520','165021491',
+'Colon and Rectum','All Races','Male and Female','36.8','36.7','37.0','141425','325147121',
+'Lip, Oral Cavity and Pharynx','All Races','Male and Female','11.7','11.6','11.8','46157','325147121'
+'Liver','All Races','Male and Female','6.8','6.8','6.9','28432','325147121',
+'Esophagus','All Races','Male and Female','4.4','4.3','4.5','17693','325147121',
+'Larynx','All Races','Male and Female','3.0','2.9','3.1','12223','325147121',
