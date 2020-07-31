@@ -1,0 +1,3 @@
+CancerType,Year,Sex,AgeSpecificRate,DeathCount,Population
+'All Cancer Sites Combined','2017','Male','181.6','315140','160125630'
+'All Cancer Sites Combined','2017','Female','131.3','283959','165021491'

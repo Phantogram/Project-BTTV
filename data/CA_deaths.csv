@@ -1,0 +1,11 @@
+Area,CancerType,Year,Sex,Race,AgeAdjustedRate,CaseCount,Population
+'California','Liver and Intrahepatic Bile Duct','2017','Male and Female','All Races','7.7','3456','39399349'
+'California','Pancreas','2017','Male and Female','All Races','10.4','4526','39399349'
+'California','Lung and Bronchus','2017','Male and Female','All Races','26.8','11555','39399349'
+'California','Female Breast','2017','Male and Female','All Races','19.4','4588','19817679'
+'California','Non-Hodgkin Lymphoma','2017','Male and Female','All Races','5.2','2222','39399349'
+'California','Leukemias','2017','Male and Female','All Races','5.7','2379','39399349'
+'California','Brain and Other Nervous System','2017','Male and Female','All Races','4.1','1801','39399349'
+'California','Colon and Rectum','2017','Male and Female','All Races','12.2','5288','39399349'
+'California','Prostate','2017','Male and Female','All Races','19.2','3468','19581670'
+'California','Urinary Bladder','2017','Male and Female','All Races','3.8','1649','39399349'

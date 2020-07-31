@@ -1,0 +1,11 @@
+Area,CancerType,Year,Sex,Race,AgeAdjustedRate,CaseCount,Population
+'Utah','Prostate','2017','Male and Female','All Races','112.3','1526','1562805'
+'Utah','Urinary Bladder','2017','Male and Female','All Races','17.6','468','3103118'
+'Utah','Female Breast','2017','Male and Female','All Races','112.4','1584','1540313'
+'Utah','Non-Hodgkin Lymphoma','2017','Male and Female','All Races','18.5','495','3103118'
+'Utah','Kidney and Renal Pelvis','2017','Male and Female','All Races','14.2','387','3103118'
+'Utah','Melanomas of the Skin','2017','Male and Female','All Races','39','1067','3103118'
+'Utah','Lung and Bronchus','2017','Male and Female','All Races','25.1','672','3103118'
+'Utah','Thyroid','2017','Male and Female','All Races','14.8','421','3103118'
+'Utah','Colon and Rectum','2017','Male and Female','All Races','29.9','798','3103118'
+'Utah','Leukemias','2017','Male and Female','All Races','14.7','418','3103118'

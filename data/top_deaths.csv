@@ -1,0 +1,11 @@
+Area,CancerType,Year,Sex,Race,AgeAdjustedRate,CaseCount,Population
+'United States','Female Breast','2017','Male and Female','All Races','19.9','42000','165021491'
+'United States','Liver and Intrahepatic Bile Duct','2017','Male and Female','All Races','6.6','27104','325147121'
+'United States','Lung and Bronchus','2017','Male and Female','All Races','36.7','145849','325147121'
+'United States','Non-Hodgkin Lymphoma','2017','Male and Female','All Races','5.3','20459','325147121'
+'United States','Pancreas','2017','Male and Female','All Races','11.1','44011','325147121'
+'United States','Leukemias','2017','Male and Female','All Races','6.2','23527','325147121'
+'United States','Brain and Other Nervous System','2017','Male and Female','All Races','4.4','16804','325147121'
+'United States','Colon and Rectum','2017','Male and Female','All Races','13.5','52547','325147121'
+'United States','Urinary Bladder','2017','Male and Female','All Races','4.3','16657','325147121'
+'United States','Prostate','2017','Male and Female','All Races','18.9','30486','160125630'

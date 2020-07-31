@@ -1,0 +1,6 @@
+CancerType,Year,Race,AgeSpecificRate,DeathCount,Population
+'All Cancer Sites Combined','2017','White','153.6','506345','253543192'
+'All Cancer Sites Combined','2017','Black','173.7','70747','45788656'
+'All Cancer Sites Combined','2017','Asian/Pacific Islander','95.6','18549','21130607'
+'All Cancer Sites Combined','2017','American Indian/Alaska Native','100.1','3458','4684666'
+'All Cancer Sites Combined','2017','Hispanic','109.5','40549','58700989'

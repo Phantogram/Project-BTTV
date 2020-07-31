@@ -1,0 +1,11 @@
+Area,CancerType,Year,Sex,Race,AgeAdjustedRate,CaseCount,Population
+'Kentucky','Liver and Intrahepatic Bile Duct','2017','Male and Female','All Races','6.5','374','4453874'
+'Kentucky','Pancreas','2017','Male and Female','All Races','10.7','593','4453874'
+'Kentucky','Lung and Bronchus','2017','Male and Female','All Races','56.7','3152','4453874'
+'Kentucky','Non-Hodgkin Lymphoma','2017','Male and Female','All Races','6.3','340','4453874'
+'Kentucky','Female Breast','2017','Male and Female','All Races','21.3','633','2259543'
+'Kentucky','Colon and Rectum','2017','Male and Female','All Races','16.7','886','4453874'
+'Kentucky','Leukemias','2017','Male and Female','All Races','6.9','362','4453874'
+'Kentucky','Esophagus','2017','Male and Female','All Races','5','279','4453874'
+'Kentucky','Prostate','2017','Male and Female','All Races','19.2','404','2194331'
+'Kentucky','Urinary Bladder','2017','Male and Female','All Races','4.9','267','4453874'
